@@ -1,0 +1,77 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "useradmin",
+      "password": "testuser123",
+      "email": "testuser@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "admin1",
+      "name": "admin1ram",
+      "password": "@testadmin",
+      "email": "testmail@gmail.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": true
+    },
+    {
+      "id": "ram prakash",
+      "name": "ramnath",
+      "password": "ram123",
+      "email": "ram@gmail.com",
+      "gender": "male",
+      "role": "quality",
+      "isactive": true
+    },
+    {
+      "id": "test1",
+      "name": "test1",
+      "password": "test1",
+      "email": "test1@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "test2",
+      "name": "test2",
+      "password": "test2",
+      "email": "test2@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "test3",
+      "name": "test3",
+      "password": "test3",
+      "email": "test3@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "test4",
+      "name": "test4",
+      "password": "test4",
+      "email": "test4@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "id": "staff",
+      "name": "Staff"
+    },
+    {
+      "id": "quality",
+      "name": "Quality"
+    }
+  ]
+}
